@@ -4,7 +4,7 @@
 
 #### Accepted to ECCV 2022 
 
-[Arxiv](https://arxiv.org/abs/2203.00137) | [Project Page](http://cure.wshangguan.com) | [video](https://youtu.be/mSV0KsxHT-A)
+[Arxiv](https://arxiv.org/abs/2203.00137) | [Project Page](https://www.cse.wustl.edu/~kamilov/projects/2022/cure/) | [video](https://youtu.be/mSV0KsxHT-A)
 
 Official PyTorch Impletement for "Learning Cross-Video Neural Representations for High-Quality Frame Interpolation"
 

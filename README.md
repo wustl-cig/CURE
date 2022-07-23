@@ -42,7 +42,7 @@ $ pip install -r requirements.txt
 Download the repository
 
 ```
-$ git clone https://github.com/WtSg/CURE.git
+$ git clone https://github.com/wustl-cig/CURE.git
 ```
 
 Download the  pre-trained model checkpoint from here: [CURE.pth.tar](https://gowustl-my.sharepoint.com/:u:/g/personal/wentao_shangguan_wustl_edu/Ebar3nGuH-pNkK-_oNJf_4QB8IksM46qurX3YdQLICMrgg?e=c0b1Qv)(Onedrive) or [CURE.pth.tar](https://drive.google.com/file/d/1V4xPAkWYBEwhv7chvYOagbhUWhVSlKlg/view?usp=sharing)(Google Drive) and put the file in the root of the project dir ```CURE```.
